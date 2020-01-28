@@ -2,7 +2,7 @@
 
 ## WireFrame
 
-> link to your wireframe.cc wireframe. (you can ignore the evaluation buttons in your wireframe)
+> link to https://wireframe.cc/UUDQX5
 
 ## Steps Plan
 
