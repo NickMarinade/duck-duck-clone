@@ -12,11 +12,6 @@ body{
     margin: auto;
 }
 
-#logo{
-    width: 205px;
-    height: 200px;
-}
-
 /* Header */
 
 /* Navbar */
@@ -35,3 +30,64 @@ body{
 #textnav{
     font-size: 15px;
 }
+
+/* Showcase */
+
+#showcase a{
+    text-decoration: none;
+}
+
+#logo{
+    width: 240px;
+    height: 150px;
+    margin-top: 150px;
+}
+
+#h1logo{
+    margin-top: 0;
+    color: rgb(77, 74, 74);
+}
+
+#pshow{
+    font-size: 18px;
+    color: darkgray;
+    margin-bottom: 400px;
+}
+
+/* Searchbar */
+
+#searchbar {
+    position: relative;
+    width: 590px;
+    margin: 0 auto;
+    background: rgb(244, 247, 246);
+    }
+  input, #searchbtn {
+    border: none;
+    outline: none;
+    background: transparent;
+  }
+  input {
+    width: 100%;
+    height: 42px;
+    padding-left: 15px;
+    border-style: ridge;
+  }
+  #searchbtn {
+    height: 42px;
+    width: 42px;
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  #searchbtn:before {
+    content: "\f002";
+    font-family: FontAwesome;
+    font-size: 16px;
+    color: darkgrey;
+    cursor: pointer;
+  }
+  
+
+
+
